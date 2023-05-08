@@ -1,0 +1,2 @@
+# trendtrove
+ecommerce platfrom
